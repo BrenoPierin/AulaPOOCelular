@@ -1,0 +1,13 @@
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csprojAssemblyReference.cache
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.csproj.CoreCompileInputs.cache
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfoInputs.cache
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.AssemblyInfo.cs
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.exe
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.deps.json
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.json
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.runtimeconfig.dev.json
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.dll
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\bin\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.dll
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.pdb
+C:\Marlene\Breno USA\Senai\AulaPOOCelular\obj\Debug\netcoreapp3.1\AulaPOOCelular.genruntimeconfig.cache

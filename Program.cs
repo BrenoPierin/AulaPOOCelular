@@ -6,7 +6,18 @@ namespace AulaPOOCelular
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Celular iphone = new Celular();
+           iphone.cor = "preto";
+           iphone.modelo = "iphone 11";
+           iphone.tamanho = 6f;
+           iphone.ligado = true;
+
+        if(iphone.ligado){
+         string ligacao;
+         string mensagem;
+        }
+    
+
         }
     }
 }
